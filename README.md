@@ -2,6 +2,9 @@
 __Created a SpaceX website clone using HTML, CSS, and JavaScript. Features include a responsive homepage, inner pages, smooth CSS animations, a mobile-friendly menu, and a dynamic JavaScript countdown timer.__
 
 ![Space-X Website](img/home-screen.png)
+### Check out the live demo of the website
+[Spacex Website](https://mumar000.github.io/spacex-website/)
+
 
 ## Key Features
 **Homepage Design**: A pixel-perfect replica of the SpaceX homepage with modern layouts and clean design.
@@ -24,5 +27,4 @@ __Created a SpaceX website clone using HTML, CSS, and JavaScript. Features inclu
 
 
 
-### Check out the live demo of the website
-[Spacex Website](https://mumar000.github.io/spacex-website/)
+
