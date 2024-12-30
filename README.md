@@ -24,6 +24,9 @@ __Created a SpaceX website clone using HTML, CSS, and JavaScript. Features inclu
 
 **JS:** Added interactivity, including the countdown timer and mobile menu toggle.
 
+## Project Highlights
+__This project showcases my skills in front-end development, responsive design, and creating dynamic web applications. It’s a great example of combining creativity with technical expertise to replicate real-world websites.__
+
 
 
 
